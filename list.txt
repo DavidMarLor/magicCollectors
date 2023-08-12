@@ -1,1 +1,265 @@
-Nombre, imagen-url, check:True/False
+Expulsar de Edoras,./img/expulsarEdoras.png,False
+La batalla de Delagua,./img/batallaDelagua.png,False
+Bill el poni,./img/billPoni.png,False
+Aguilas del Norte,./img/aguilasNorte.png,False
+Gandalf el Blanco,./img/gandalfElBlanco.png,False
+Aplazar,./img/aplazar.png,False
+Guerra de la Última Alianza,./img/guerraUltimaAlianza.png,False
+La historia de Tinúviel,./img/hisoriaTinuviel.png,False
+Hobbit ágil,./img/hobbitAgil.png,False
+¡La hora de la ira y la ruina!,./img/horaIraYRuina.png,False
+Jinete del Folde Oeste,./img/jineteFoldeOeste.png,False
+Defensores de Osgiliath,./img/defensoresOsgiliath.png,False
+Landroval testigo del horizonte,./img/landrovalTestigoHorizonte.png,False
+Devenir en leyenda,./img/devenirLeyenda.png,False
+¡No puedes pasar!,./img/noPuedesPasar.png,False
+Oficial de la Comarca,./img/oficialComarca.png,False
+Ponerse el Anillo,./img/ponerseElAnillo.png,False
+Estocada de hobbit,./img/estocadaHobbit.png,False
+Protector de Gondor,./img/protectorGondor.png,False
+Rosita Coto del Sendero del Sur,./img/rositaCoto.png,False
+Samsagaz el intrépido,./img/sansagazIntrepido.png,False
+Segadora Tuk,./img/segadoraTuk.png,False
+Segundo desayuno,./img/segundoDesayuno.png,False
+Soldado del Ejército de las Sombras,./img/soldadoEjercitoSombras.png,False
+Boromir Guardián de la Torre,./img/boromirGuardian.png,False
+El albor de una Nueva Edad,./img/alborNuevaEra.png,False
+Espada de los dúnedain,./img/espadaDunedain.png,False
+Granjero de la Cuaderna del Este,./img/granjeroCuadernaEste.png,False
+Caballero de la Marca del Este,./img/caballeroMarcaEste.png,False
+Éowyn dama de Rohan,./img/eowinDamaRohan.png,False
+Mensajero de Gondor,./img/mensajeroGondor.png,False
+Escapar de Orthanc,./img/escaparOrthanc.png,False
+Escudero del rey,./img/escuderoRey.png,False
+Faramir comandante de campo,./img/faramirComandanteCampo.png,False
+Floración del Árbol Blanco,./img/floracionArbolBlanco.png,False
+Niebla en las Quebradas de los Túmulos,./img/nieblaQuebradasTumulos.png,False
+Forjar de nuevo,./img/forjarNuevo.png,False
+Frodo la ruina de Sauron,./img/frodoRuinaSauron.png,False
+El Hálito Negro,./img/halitoNegro.png,False
+Incursión de los orcos,./img/incursionOrcos.png,False
+Tea del montaraz,./img/teaMontaraz.png,False
+Inscripción ígnea,./img/inscripcionIgnea.png,False
+Uglúk de la Mano Blanca,./img/uglukManoBlanca.png,False
+Invocación espectral,./img/invocacionEspectral.png,False
+Visión del Anillo,./img/visionAnillo.png,False
+Ioreth de la Casa de Curación,./img/iorethCasaCuracion.png,False
+Abatir al inmortal,./img/abatirAlInmortal.png,False
+Irrumpir en la sala,./img/irrumpirSala.png,False
+Isla1,./img/isla1.png,False
+Aislamiento en Orthanc,./img/aislamientoOrthanc.png,False
+Isla2,./img/isla2.png,False
+Aluvión de flechas,./img/aluvionFlechas.png,False
+Juramento del Ejército de las Sombras,./img/juramentoEjercitoSombras.png,False
+Andúril Llama del Oeste,./img/andurilLlamaOeste.png,False
+Lancero haradrim,./img/lanceroHaradrim.png,False
+Un Anillo para gobernarlos a todos,./img/anilloParaGobernarlos.png,False
+Lancero rohirrim,./img/lanceroRohirrim.png,False
+El Anillo Único,./img/anilloUnico.png,False
+El Anillo va hacia el sur,./img/anilloVaHaciaSur.png,False
+La Larga Lista de los ents,./img/largaListaEnts.png,False
+Aparición de las Ciénagas de los Muertos,./img/aparicionDeLaCienagas.png,False
+Latigazo del balrog,./img/latigazoBalrog.png,False
+Aplastador olog-hai,./img/aplastadorOlog-hai.png,False
+Legolas arquero magistral,./img/legolasArquero.png,False
+Legolas contador de muertes,./img/legolasContadorMuertes.png,False
+Aragorn líder de la compañía,./img/aragornLiderCompañia.png,False
+Libro de Mazarbul,./img/libroMazarbul.png,False
+Aragorn el Unificador,./img/aragornUnificador.png,False
+Lobelia Sacovilla-Bolsón,./img/lobeliaSacovilla.png,False
+Araña del Bosque Negro,./img/aranaBosqueNegro.png,False
+Lórien revelado,./img/lorienRevelado.png,False
+Arco de los galadrim,./img/arcoGaladrin.png,False
+Los Puertos Grises,./img/losPuertosGrises.png,False
+Artimaña de Saruman,./img/artimanaSaruman.png,False
+Lotho oficial corrupto,./img/lothoOcialCorrupto.png,False
+Arwen reina mortal,./img/arwenReinaMortal.png,False
+La luz del amanecer,./img/luzAmanecer.png,False
+Arwen Undómiel,./img/arwenUndomiel.png,False
+Llama de Anor,./img/llamaAnor.png,False
+Arrojar al fuego,./img/arrojarFuego.png,False
+Llamada del Anillo,./img/llamadaAnillo.png,False
+Un atajo hacia los hongos,./img/atajoHongos.png,False
+La llamada de la Isla Perdida,./img/llamadaIslaPerdida.png,False
+Ataque trascendental de Isildur,./img/ataqueTrascendentalIsildur.png,False
+Llanura1,./img/llanura1.png,False
+Auge del Rey Brujo,./img/augeReyBrujo.png,False
+Llanura2,./img/llanura2.png,False
+El balrog el Daño de Durin,./img/balrogDanoDurin.png,False
+Maestros arqueros orcos,./img/maestrosArquerosOrcos.png,False
+Bancales de la Comarca,./img/bancalesComarca.png,False
+Manantial de brebaje de los ents,./img/manantialBrebajesEnts.png,False
+Barad-dûr,./img/baradur.png,False
+Mantecona posadero de Bree,./img/manteconaPosaderoBree.png,False
+Marcha desde la Puerta Negra,./img/marchaPuertaNegra.png,False
+Baya de Oro Hija del Río,./img/bayaOroHijaRio.png,False
+Mauhúr capitán uruk-hai,./img/mauhurCapitanUrukHai.png,False
+Berserker uruk-hai,./img/berserkerUruk-hai.png,False
+Maza improvisada,./img/mazaImprovisada.png,False
+Bestia abominable voraz,./img/bestiaAbominableVoraz.png,False
+Mediana exultante,./img/medianaExultante.png,False
+Bestia de guerra de Gorgoroth,./img/bestiasGuerraGorgoroth.png,False
+Medicina orca,./img/medicinaOrca.png,False
+Bilbo ladrón jubilado,./img/bilboLadronJubilado.png,False
+Meneldor salvador veloz,./img/meneldorSalvadorVeloz.png,False
+Bill Helechal estafador de Bree,./img/billHelechal.png,False
+Merodeador de Moria,./img/merodeadorMoria.png,False
+La Boca de Sauron,./img/bocaSauron.png,False
+Merry escudero de Rohan,./img/merryEscuderoRohan.png,False
+Minas de Moria,./img/minasMoria.png,False
+Bosque1,./img/bosque1.png,False
+Minas Tirith,./img/minasTirith.png,False
+Bosque2,./img/bosque2.png,False
+Montaña1,./img/montaña1.png,False
+Montaña2,./img/montaña2.png,False
+Caballeros de Dol Amroth,./img/caballerosDolAmroth.png,False
+Montaraces dúnedain,./img/montaracesDunedain.png,False
+Caballos del Bruinen,./img/caballosBruinen.png,False
+Montaraces de Ithilien,./img/montaracesIthilien.png,False
+La caída de Gil-galad,./img/caidaGilgalad.png,False
+Monte del Destino,./img/monteDestino.png,False
+La canción de baño,./img/cancionBano.png,False
+Mordisco de Gollum,./img/mordiscoGollum.png,False
+Canción de Bombadil,./img/cancionBombadil.png,False
+Murciélagos del Bosque Negro,./img/murcielagoBosqueNegro.png,False
+Capitana de Umbar,./img/capitanaUmbar.png,False
+Navegante de los Puertos Grises,./img/navegantePuertosGrises.png,False
+Catapulta de Mordor,./img/catapultaMordor.png,False
+Nazgûl,./img/nazgul.png,False
+Celeborn el Sabio,./img/celebornSabio.png,False
+Cohetes del mago,./img/cohetesMago.png,False
+La Comarca,./img/comarca.png,False
+Nudos de hithlain,./img/nudosHithalain.png,False
+Conseguir el Tesoro,./img/conseguirTesoro.png,False
+Numerosas separaciones,./img/numerosasSeparaciones.png,False
+Coro élfico,./img/coroElfico.png,False
+Cota de mithril,./img/cotaMithril.png,False
+Olifante,./img/olifante.png,False
+Crebain de las Tierras Brunas,./img/crebainTierrasBrunas.png,False
+Organizarse en Cuernavilla,./img/organizarseCuernavilla.png,False
+Cuerno de Gondor,./img/cuernoGondor.png,False
+Pájaro pescador de Ithilien,./img/pajaroPescadorIthilien.png,False
+Cuerno de la Marca,./img/cuernoMarca.png,False
+Palantír de Orthanc,./img/palantirOrthanc.png,False
+Dardo la daga centelleante,./img/dardoDagaCentelleante.png,False
+Pan de lembas,./img/panLembas.png,False
+Dádiva de Arwen,./img/davidaArwen.png,False
+Pantano1,./img/pantano1.png,False
+Pantano2,./img/pantano2.png,False
+Deliberación del Concilio,./img/deliberacionConcilio.png,False
+Patrulla de Cirith Ungol,./img/patrullaCirithUngol.png,False
+Denethor senescal regente,./img/denethorSenescalRegente.png,False
+¡Peligro! ¡Fuego! ¡Enemigos!,./img/peligroFuegosEnemigos.png,False
+Desenlace amargo,./img/desenlaceAmargo.png,False
+Peregrin Tuk,./img/peregrinTuk.png,False
+La destrucción de Cair Andros,./img/destruccionCairAndros.png,False
+Pergamino de Isildur,./img/pergaminoIsildur.png,False
+Perros guardianes de setas,./img/perrosGuardianesSetas.png,False
+Disolución de la Comunidad,./img/disolucionComunidad.png,False
+Piedra de Erech,./img/piedraErech.png,False
+Elfos inesperados,./img/elfosInesperados.png,False
+Pippin guardia de la ciudadela,./img/pippinGuardiaCiudadela.png,False
+Elrond maestro de la curación,./img/elrondMaestroCuracion.png,False
+Elrond señor de Rivendel,./img/elrondSeñordeRivendel.png,False
+Presionar al enemigo,./img/presionarAlEnemigo.png,False
+Ella-Laraña hija de Ungoliant,./img/ellaLaraña.png,False
+Príncipe Imrahil el Hermoso,./img/principeImrahilHermoso.png,False
+Emboscada de Ella-Laraña,./img/emboscadaElla.png,False
+Engañar al mensajero,./img/enganarMensajero.png,False
+Puertas de Durin,./img/puertasDurin.png,False
+Enjambre de Moria,./img/enjambreMoria.png,False
+Ent generoso,./img/entGeneroso.png,False
+Ráfaga gloriosa,./img/rafagaGloriosa.png,False
+Éomer de la Marca de los Jinetes,./img/eomerMarcaJinetes.png,False
+Ramaviva ent resoluto,./img/ramavivaEntResoluto.png,False
+Rapapolvo,./img/rapapolvo.png,False
+Erkenbrand señor del Folde Oeste,./img/erkenbrandSeñorFoldeOeste.png,False
+Recadero de Bolsón Cerrado,./img/recaderoBolsonCerrado.png,False
+Reclutamiento de Mordor,./img/reclutamientoMordor.png,False
+Regalo de cabellos,./img/regaloCabellos.png,False
+Rescate desesperado de Sam,./img/rescateDesesperadoSam.png,False
+Espada tumularia,./img/espadaTumularia.png,False
+Restauración éntica,./img/restauracionEntica.png,False
+Espantapájaros de la Comarca,./img/espantapajarosComarca.png,False
+Espejo de Galadriel,./img/espejoGaladriel.png,False
+Rey de los perjuros,./img/reyPerjuros.png,False
+Rivalidad amistosa,./img/rivalidadAmistosa.png,False
+Exhibición de poderío,./img/exhibicionPoderio.png,False
+Rivendel,./img/rivendel.png,False
+Rodeados por los orcos,./img/rodeadosOrcos.png,False
+Extorsión de Sauron,./img/extorsionSuron.png,False
+Rohirrim implacable,./img/rohirrimImpacable.png,False
+Faramir príncipe de Ithilien,./img/faramirPrincipeIthilien.png,False
+Samsagaz Gamyi,./img/samsagazGamyi.png,False
+Sanción de Gandalf,./img/sancionGandalf.png,False
+Fin de la disputa,./img/finDisputa.png,False
+Sanguijuelas hechizantes,./img/sanguijuegasHechizantes.png,False
+Final horrible,./img/finalHorrible.png,False
+Saqueo malicioso,./img/saqueoMalicioso.png,False
+Saruman el Blanco,./img/sarumanBlanco.png,False
+Frasco de Galadriel,./img/frascoGaladriel.png,False
+Saruman el Multicolor,./img/sarumanMulticolor.png,False
+Sauron el Nigromante,./img/sauronNigromante.png,False
+Fuego de Orthanc,./img/fuegoOrthanc.png,False
+Sauron el Señor Oscuro,./img/sauronSeñorOscuro.png,False
+Furia de Gimli,./img/furiaGimli.png,False
+Galadriel de Lothlórien,./img/galadrielLothlorien.png,False
+Gandalf amigo de la Comarca,./img/gandalfAmigoComarca.png,False
+Shagrat portador del botín,./img/shagratPortadorBotin.png,False
+Sméagol guía servicial,./img/smeagolGuiaServicial.png,False
+Gimli contador de muertes,./img/gimliContadorMuertes.png,False
+Sobre heredado,./img/sobreHeredado.png,False
+Glamdring,./img/glamdring.png,False
+Glóin emisario enano,./img/gloinEmisarioEnano.png,False
+Sombra del Enemigo,./img/sombraEnemigo.png,False
+Glorfindel rescatador audaz,./img/glorfindelRescatadorAudaz.png,False
+Sombragrís señor de los caballos,./img/sombragrisSeñorCaballos.png,False
+Gollum maquinador paciente,./img/gollumMaquinadorPaciente.png,False
+Superviviente de Pelargir,./img/supervivientePelargir.png,False
+Gorbag de Minas Morgul,./img/gorbagMinasMorgul.png,False
+Talar el bosque de los ents,./img/talarBosqueEnts.png,False
+Gothmog lugarteniente de Morgul,./img/gothmogLugarteniente.png,False
+Terrible como la tempestad,./img/terribleTempestad.png,False
+Gran salón de la ciudadela,./img/granSalonCiudadela.png,False
+Théoden rey de Rohan,./img/theodenReyRohan.png,False
+Granjera del Brandivino,./img/granjaBrandivino.png,False
+Tom Bombadil,./img/tomBombadil.png,False
+Tormenta de Saruman,./img/tormentaSaruman.png,False
+Gríma Lengua de Serpiente,./img/grimaLenguaS.png,False
+El tormento de Gollum,./img/tormentoGollum.png,False
+Grishnákh instigador temerario,./img/grishnakhInstigador.png,False
+La traición de Isengard,./img/traicionIsengar.png,False
+Grond el Rompepuertas,./img/grondRompepuertas.png,False
+Traído por el viento,./img/traidoPorViento.png,False
+El Guardián del Agua,./img/guardianAgua.png,False
+Trancos montaraz del norte,./img/trancosMontarazNorte.png,False
+Guardiana del Lago Espejo,./img/guardianaLagoEspejo.png,False
+Tranquilizar a Sméagol,./img/tranquilizarSmeagol.png,False
+Trasgo con heridas de guerra,./img/trasgoHeridasGuerra.png,False
+Guía galadrim,./img/guiaGaladrim.png,False
+Trasgo saltallamas,./img/trasgoSaltallamas.png,False
+Guisar los conejos,./img/guisarConejos.png,False
+Troll de Khazad-dûm,./img/trollKhazad-dum.png,False
+Gwaihir el Señor de los Vientos,./img/gwaihirSenorVientos.png,False
+Ucorno furioso,./img/ucornoFurioso.png,False
+Hacha de Gimli,./img/hachaGimli.png,False
+La última marcha de los ents,./img/ultimaMarchaEnts.png,False
+Hallasendas wose,./img/hallasendasWose.png,False
+La valentía de Pippin,./img/valentiaPippin.png,False
+Herida de puñal de Morgul,./img/heridaPunalMorgul.png,False
+Vanguardia de los hombres del este,./img/vanguardiaHombresEste.png,False
+Herrera de Erebor,./img/herreraErebor.png,False
+El viejo Hombre-Sauce,./img/viejoHombreSauce.png,False
+Viento del sauce,./img/vientoSauce.png,False
+Historia de una ida y de una vuelta,./img/historiaIdaYVuelta.png,False
+Vigía de Lothlórien,./img/vigiaLothlorien.png,False
+Vigilante de Nimrodel,./img/vigilanteNimrodel.png,False
+Visión lejana élfica,./img/visionLejanaElfica.png,False
+Huargo gruñidor,./img/huargoGrunidor.png,False
+Vivificar la Comarca,./img/vivificarLaComarca.png,False
+Huir del cumpleaños,./img/huirCumpleanos.png,False
+Zarquino tirano de la Comarca,./img/zarquinoTiranoComarca.png,False
+Rey Brujo de Angmar,./img/reyBrujoAngmar.png,False
+Fangorn pastor de árboles,./img/fargornPastorArboles.png,False
+Meriadoc Brandigamo,./img/meriadocBrandigamo.png,False
+Radagast el Pardo,./img/radagastPardo.png,False
